@@ -7,7 +7,9 @@ Steps:
 
 npm install
 
-cp env_dev .evn
+cp env_dev .env
+
+Update twitter credentials in .env file
 
 npm run start    //For dev, for other tasks, please refer package.json
 
