@@ -9,7 +9,6 @@ npm install
 
 cp env_dev .evn
 
-/* For dev, for other tasks, please refer package.json */
-npm run start
+npm run start    //For dev, for other tasks, please refer package.json
 
 http://localhost:3000
